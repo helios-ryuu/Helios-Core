@@ -8,14 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93e572bd2caa451e",
+            "id": "1fb41c1ae04ba3d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47c831f5bd58d55",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "IT Support/IT Support.canvas",
+                "viewState": {
+                  "x": -678.9889773655635,
+                  "y": 924.9463537752632,
+                  "zoom": -2.6666666666666665
+                }
+              }
+            }
+          },
+          {
+            "id": "ea4aa050d61091cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Project Management/Project Management.canvas",
+                "viewState": {
+                  "x": -10657.114132259037,
+                  "y": 972.7530735302319,
+                  "zoom": -4
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e094031ebf6dab2a",
@@ -81,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Management/Project Management.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Management/Project Management.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Management/Project Management.canvas"
+              }
             }
           },
           {
@@ -134,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +187,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93e572bd2caa451e",
-  "lastOpenFiles": []
+  "active": "ea4aa050d61091cb",
+  "lastOpenFiles": [
+    "IT Support/IT Support.canvas",
+    "Project Management/Project Management.canvas",
+    "Test.md",
+    "English/Topics/Coding Environment.md",
+    "Dart roadmap.md",
+    "IT Support/Untitled.md",
+    "IT Support",
+    "Untitled.canvas",
+    "Dart.canvas",
+    "Project Management/How project managers impact organizations.pdf",
+    "Project Management",
+    "Workspace.canvas",
+    "English/Vocabulary/Part 1.md",
+    "English/Vocabulary/Part 3.md",
+    "English/Vocabulary/Part 2.md",
+    "C1.md",
+    "Untitled 1",
+    "Project Management/Using buzzwords in your job search.pdf",
+    "English/English roadmap.md",
+    "Japanese/Reading",
+    "Japanese/Kanji",
+    "Japanese/Vocabulary",
+    "Japanese/Grammar",
+    "English/Topics",
+    "Grammar.md",
+    "English/Grammar/Tenses.md",
+    "English/Grammar/Reported speechs.md",
+    "English/Grammar/Prepositions.md",
+    "English/Grammar/Passive voices.md",
+    "English/Grammar/Modals.md",
+    "English/Grammar/Conditionals.md",
+    "English.md",
+    "English.canvas",
+    "Project Management.md",
+    "Dart.md",
+    "Java.md"
+  ]
 }

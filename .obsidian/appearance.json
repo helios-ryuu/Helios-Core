@@ -2,5 +2,8 @@
   "accentColor": "#1e8246",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "textFontFamily": "Noto Sans,Noto Sans JP,JetBrains Mono",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Noto Sans"
 }

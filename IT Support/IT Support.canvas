@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"daead5e18c82d403","type":"text","text":"# IT Support","x":-125,"y":-30,"width":685,"height":190,"color":"1"},
+		{"id":"2a8f49af2ccad0ba","type":"text","text":"# Information Technology (IT)\nIT is essentially the use of digital technology like computers on the Internet to store and process data into useful information.","x":-125,"y":500,"width":685,"height":132},
+		{"id":"663688a7bfec75dd","type":"text","text":"# Computer\nA computer is a device that stores and processes data by performing calculations. Before we had actual computer devices, the term computer was used to refer to someone who actually did the calculation.","x":-840,"y":500,"width":620,"height":152},
+		{"id":"0ff9de0266bbf854","type":"text","text":"# Cryptography\nThe art of writing and solving codes","x":778,"y":511,"width":462,"height":109},
+		{"id":"c007eb6658498cca","type":"text","text":"# Binary system\nThe communication that a computer uses is referred to as binary system, also known as base-2 numeral system. This means that it only talks in ones and zeros.","x":-1200,"y":920,"width":589,"height":160},
+		{"id":"8f8cfdd513db76e1","type":"text","text":"# Character encoding\nCharacter encoding is used to assign our binary values to characters so that we as humans can read them. We definitely wouldn't want to see all the texts in our emails in webpages rendered in complex sequences of zeros and ones. This is where character encodings come in handy.","x":-1359,"y":1258,"width":679,"height":182},
+		{"id":"47d8bbf1e430e1c6","type":"text","text":"# ASCII\nThe oldest character encoding standard used is ASCII. It represents the English alphabet, digits, and punctuation marks. The first character in the ASCII to binary table, a lowercase a, maps to 01100001 in binary. This is done for all the characters you can find in the English alphabet, as well as numbers and some special symbols. \n- The great thing with ASCII was that we only needed to use 127 values out of our possible 256.","x":-515,"y":1235,"width":780,"height":228},
+		{"id":"086d4f5858fc8ded","x":-2173,"y":1365,"width":573,"height":135,"type":"text","text":"# Logical gates\nLogic gates allow our transistors to do more complex tasks like decide where to send electrical signals depending on logical conditions."}
+	],
+	"edges":[
+		{"id":"27ce1b3652be4936","fromNode":"daead5e18c82d403","fromSide":"bottom","toNode":"2a8f49af2ccad0ba","toSide":"top"},
+		{"id":"76a7b34f8dc564f2","fromNode":"daead5e18c82d403","fromSide":"bottom","toNode":"663688a7bfec75dd","toSide":"top"},
+		{"id":"2529f18d807028d2","fromNode":"daead5e18c82d403","fromSide":"bottom","toNode":"0ff9de0266bbf854","toSide":"top"},
+		{"id":"037b623586eed77d","fromNode":"663688a7bfec75dd","fromSide":"bottom","toNode":"c007eb6658498cca","toSide":"top"},
+		{"id":"9c544aac1a80a8ac","fromNode":"c007eb6658498cca","fromSide":"bottom","toNode":"8f8cfdd513db76e1","toSide":"top"},
+		{"id":"888e2b85c43253bd","fromNode":"8f8cfdd513db76e1","fromSide":"right","toNode":"47d8bbf1e430e1c6","toSide":"left"},
+		{"id":"05a16f650ae078f5","fromNode":"c007eb6658498cca","fromSide":"bottom","toNode":"086d4f5858fc8ded","toSide":"top"}
+	]
+}
